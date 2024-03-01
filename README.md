@@ -1,11 +1,19 @@
-* To-Do List video. 
+index.html
 
 
+![index](https://github.com/Grishma09734/simple-todo-list-app/assets/159860959/1a98da68-9721-4a6e-bd4a-d8b582caeedb)
 
 
+style.css
 
-https://github.com/Grishma09734/simple-todo-list-app/assets/159860959/f92aa79b-d486-4731-8e25-3fa8f8634288
 
+![Style css](https://github.com/Grishma09734/simple-todo-list-app/assets/159860959/d3a2898e-5ae0-43d1-b578-68127814c3a6)
+
+
+script.js
+
+
+![Script js](https://github.com/Grishma09734/simple-todo-list-app/assets/159860959/dcb91986-d99e-4c27-b196-c8af65767055)
 
 
 
