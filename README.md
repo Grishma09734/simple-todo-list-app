@@ -16,6 +16,14 @@ script.js
 ![Script js](https://github.com/Grishma09734/simple-todo-list-app/assets/159860959/dcb91986-d99e-4c27-b196-c8af65767055)
 
 
+* To-Do List Video.
+
+
+
+https://github.com/Grishma09734/simple-todo-list-app/assets/159860959/48c657d8-5d74-4049-bcad-fb9db01425b7
+
+
+
 
 Step 1: Display of the to-do list.
 
